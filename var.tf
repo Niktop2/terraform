@@ -21,3 +21,10 @@ variable "public_subnet_a_cidr" {
 }
 variable "public_subnet_b_cidr" {
 }
+
+variable "image_id" {
+}
+variable "key_name" {
+}
+variable "instance_type" {
+}
